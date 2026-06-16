@@ -1,6 +1,8 @@
 # goodwe_challenge
 
-Resumo Executivo
+**rm573419**
+
+**Resumo Executivo**
 
 O crescimento acelerado da mobilidade elétrica está transformando condomínios residenciais, edifícios corporativos e campus universitários em ambientes cada vez mais dependentes de infraestrutura de recarga compartilhada.
 
