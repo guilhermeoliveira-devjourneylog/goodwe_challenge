@@ -18,4 +18,4 @@ O EV ChargeOps surge como uma plataforma inteligente capaz de conectar carregado
 
 [Arquitetura](/primeira_sprint/arquitetura.md)
 
-[Design](/primeira_sprint/design/)
+[Design](/primeira_sprint/design/schema.md)
